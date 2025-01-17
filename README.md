@@ -22,6 +22,7 @@ SQL Analysis: Various SQL queries were used to analyze the data, such as identif
 
 ## Results
 The analysis revealed several interesting patterns, such as:
+
 Directors with a diverse portfolio of movies and TV shows.
 Countries producing the most content in specific genres.
 Average movie durations for different genres.
