@@ -1,0 +1,4 @@
+
+Handling Foreign Characters: Converted data types to support foreign characters and optimized the table structure.
+Data Cleaning: Removed duplicates and ensured data integrity.
+SQL Analysis: Various SQL queries were used to analyze the data, such as identifying directors with movies and TV shows, finding the country with the most comedy movies, and calculating the average movie duration per genre.
